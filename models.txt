@@ -1,0 +1,4 @@
+class JobModel(models.Model):
+Jobname=models.charfiled()
+phone
+age
